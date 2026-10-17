@@ -1,0 +1,38 @@
+# Visual Studio build outputs
+x64/
+Debug/
+Release/
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.idb
+*.ipch
+*.pch
+*.exe
+*.dll
+*.sys
+*.exp
+*.lib
+*.res
+
+# Visual Studio user files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+
+# Driver specific
+*.cer
+*.cat
+*.inf.bak
+inf2catOutput.log
+*.Build.CppClean.log
+*.vcxproj.FileListAbsolute.txt
+*.sys.recipe
+
+# Claude Code local settings
+.claude/settings.local.json
